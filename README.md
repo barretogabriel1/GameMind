@@ -14,6 +14,10 @@ Setas do teclado
 
 Teclas W,A,S,D.
 
+## Pulo
+Espaço
+
+
 ## Movimentação de câmera
 Mouse
 
