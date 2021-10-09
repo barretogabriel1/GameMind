@@ -11,6 +11,7 @@ com a mediação do professor, como forma de avaliar aprendizagens anteriores.
 # Formas de jogar:
 ## Movimentação do player:
 Setas do teclado
+
 Teclas W,A,S,D.
 
 ## Movimentação de câmera:
