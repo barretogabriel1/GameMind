@@ -8,13 +8,13 @@ retangular, pirâmide, cone, cilindro e esfera), relacionando-as com objetos do 
 Para a conclusão da atividade o aluno precisar ter conhecimentos prévios sobre a caracterização de de figuras geométricas espaciais. Nesse sentido, o jogo foi pensado para ser utilizado
 com a mediação do professor, como forma de avaliar aprendizagens anteriores.
 
-# Formas de jogar:
-## Movimentação do player:
+# Formas de jogar
+## Movimentação do player
 Setas do teclado
 
 Teclas W,A,S,D.
 
-## Movimentação de câmera:
+## Movimentação de câmera
 Mouse
 
 
